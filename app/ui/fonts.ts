@@ -1,6 +1,6 @@
-import { Plus_Jakarta_Sans, Lusitana } from 'next/font/google';
+import { Inter, Lusitana } from 'next/font/google';
 
-export const plusJakarta = Plus_Jakarta_Sans({
+export const inter = Inter({
   subsets: ['latin'],
   display: 'swap',
 });
