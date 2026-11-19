@@ -1,3 +1,5 @@
 export default function Page() {
-    return <p>Ini Adalah dashboard</p>
+    return (
+        <p>Ini adalah app/dashboard</p>
+    )
 }
